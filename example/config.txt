@@ -1,0 +1,2 @@
+Prefix plugins/Qiime2Tree/example
+Plugin Qiime2Tree inputfile sequences.qza outputfile tree
